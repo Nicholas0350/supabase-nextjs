@@ -1,7 +1,7 @@
 'use server';
 
-export async function registerWithEmailAndPasword({
-  email,
-}: {
-  email: string;
-}) {}
+export async function registerWithEmailAndPasword({email}: {email: string;}) {
+
+
+  
+}
